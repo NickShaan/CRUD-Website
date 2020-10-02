@@ -1,2 +1,2 @@
 # CRUD-Website
-This website is for csp
+This website is for "Computer Sceince Principles" 
